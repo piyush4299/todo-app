@@ -1,0 +1,78 @@
+body{
+    background-color: #6B7280;;
+}
+
+.heading{
+    text-align: center;
+    color: white;
+}
+
+.todoinput{
+    text-align: center;
+}
+
+.todoArea{
+    padding: 2rem;
+    margin: 4rem;
+    background-color: #9CA3AF;
+}
+
+.todoinput > .getTodo{
+    border: none;
+    padding: 0.6rem;
+    border-radius: 5%;
+}
+
+.todoinput > .addTodo{
+    border: none;
+    padding: 0.6rem;
+    border-radius: 6%;
+}
+
+.todoinput > .resetTodo{
+    border: none;
+    padding: 0.6rem;
+    border-radius: 6%;
+}
+
+.todoItemsList{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.todo{
+    margin-top: 0.5rem;
+}
+
+.todo > .statusButton{
+    display: inline;
+    border: none;
+    padding: 0.6rem;
+    border-radius: 6%;
+}
+
+.todo > .editStatus{
+    display: inline;
+    border: none;
+    padding: 0.6rem;
+    border-radius: 6%;
+}
+
+.todo > .deleteTodo{
+    display: inline;
+    border: none;
+    padding: 0.6rem;
+    border-radius: 6%;
+}
+
+.todo > .todoItem{
+    display: inline;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+
+
+
+
